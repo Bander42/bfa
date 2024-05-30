@@ -1,0 +1,4 @@
+gdino
+opencv-python-headless==4.5.3.56
+torch==1.9.1
+numpy==1.21.1
